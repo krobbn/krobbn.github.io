@@ -111,17 +111,17 @@ author:
   avatar           : "/assets/images/author-photo.jpg"
   bio              : "Covering the natural gas market with a focus on the Permian Basin, Mexico, and LNG. | BSc. International Business from Copenhagen Business School"
   location         : "Houston, TX"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: mailto:kristoffer@gasfundamental.com
+  email            : "kristoffer@gasfundamental.com"
+ # links:
+ #   - label: "Email"
+ #     icon: "fas fa-fw fa-envelope-square"
+ #      url: mailto:kristoffer@gasfundamental.com
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/gasfundamental"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/gasfundamental"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
