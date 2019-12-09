@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Gas Fundamental"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kristoffer Nilsen"
+name                     : # "Kristoffer Nilsen"
 description              : "Fundamentally Gas"
 url                      : "https://www.gasfundamental.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
