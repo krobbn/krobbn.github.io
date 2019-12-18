@@ -32,7 +32,7 @@ This is further evidenced by the flows on Tarahumara pipline listed below, which
 
 ![Tarahumara Flows](/assets/images/tarahumara-flow-2019-12-16.jpeg)
 
-Albeit, we see some volatile swings I assume this is to fill the downstream pipelines and not actual new demands. Evidenced by the "El Encino - La Laguna" pipeline we see no reported flows. (See below)
+Albeit, we see some volatile swings I assume this is to fill the downstream pipelines and not actual new demand. Evidenced by the "El Encino - La Laguna" pipeline we see no reported flows. (See below)
 
 ![El Encino Flows](/assets/images/el-encino-flows-2019-12-16.jpeg)
 
