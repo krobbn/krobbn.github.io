@@ -4,7 +4,7 @@ date: 2019-12-16 18:00:00
 categories: [Mexico, Wahalajara]
 ---
 
-On Tuesday it was __[reported](https://www.argusmedia.com/en/news/2031472-fermaca-starts-new-gas-export-line-to-mexico "Argus Media")__ that Fermaca was launching their second to last pipeline of the so called "Wahalajara" pipeline system. The section is the La Laguna - Aguascalientes, and it has yet to show flows on Fermacas Electronic Dashobard. 
+On Tuesday it was __[reported](https://www.argusmedia.com/en/news/2031472-fermaca-starts-new-gas-export-line-to-mexico "Argus Media")__ that Fermaca was launching their second to last pipeline of the so called "Wahalajara" pipeline system. The section is the La Laguna - Aguascalientes, and it has yet to show flows on Fermacas Electronic Dashboard. 
 
 In this blog post we'll take a look at how flows have been impacted and dicuss if the opening of this section will have any impact on flows currently.
 
