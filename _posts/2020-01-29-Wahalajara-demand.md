@@ -4,7 +4,7 @@ date: 2020-01-29 19:00:00
 categories: [Mexico, Wahalajara, Demand]
 ---
 
-Back to our regularly scheduled programming. From articles will be posted each Wednesday, as it makes for a better work schedule.
+Back to our regularly scheduled programming. Articles will now be posted each Wednesday, as it makes for a better work schedule.
 
 In this post we cover the demand for the Wahalajara system so it becomes easier to track the incremental demand.
 
